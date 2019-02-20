@@ -19,7 +19,6 @@ This is an actual copy of Arthur's collections from ProductHuint
 - https://www.producthunt.com/posts/kptncook-2 kptncook
 - http://www.subsfinder.com/?ref=producthunt subsfinder
 - https://www.producthunt.com/posts/looma Looma
--
 - https://www.producthunt.com/posts/plant-jammer-2-0 Plan Jammer 2.0
 - Treat http://treatapp.io/?ref=producthunt
 - https://www.producthunt.com/posts/hatchery hatchery (down)
@@ -43,51 +42,51 @@ This is an actual copy of Arthur's collections from ProductHuint
 
 
 
-https://www.producthunt.com/posts/slice-3
+- https://www.producthunt.com/posts/slice-3
 
 
 #### "Recipes" collection
-https://www.producthunt.com/posts/teeny-recipes
-https://www.producthunt.com/posts/pixfood https://pixfood.com/?ref=producthunt
-https://www.producthunt.com/posts/cinc https://www.cinc.kitchen/?ref=producthunt
-https://www.producthunt.com/posts/average-cookbook
-https://www.producthunt.com/posts/daily-yum
-https://www.producthunt.com/posts/foodgawker
-https://www.producthunt.com/posts/prepd-pack-recipes-app
-https://www.producthunt.com/posts/discover-meals
-https://www.producthunt.com/posts/recidex
-https://www.producthunt.com/posts/foodies-recipe-by-ingredients
-https://www.producthunt.com/posts/recipes-only
-https://www.producthunt.com/posts/recipelove
-https://www.producthunt.com/posts/fodo
-https://www.producthunt.com/posts/cookooz
-https://www.producthunt.com/posts/my-new-roots-cookbook
-https://www.producthunt.com/posts/good-morning-moms
-https://www.producthunt.com/posts/grilled-cheese-kitchen
-https://www.producthunt.com/posts/nyt-cooking-2
-https://www.producthunt.com/posts/not-recipes
-https://www.producthunt.com/posts/spatula
-https://www.producthunt.com/posts/treat-2
-https://www.producthunt.com/posts/pinto
-https://www.producthunt.com/posts/noodles-2-2
-https://www.producthunt.com/posts/famealy
-https://www.producthunt.com/posts/mealsnap
-https://www.producthunt.com/posts/subsfinder
-https://www.producthunt.com/posts/monica
-https://www.producthunt.com/posts/meal-memory
-https://www.producthunt.com/posts/fitnspicy-living
-https://www.producthunt.com/posts/dieterest
-https://www.producthunt.com/posts/mealime
-https://www.producthunt.com/posts/yumble
-https://www.producthunt.com/posts/tasteful-2
+- https://www.producthunt.com/posts/teeny-recipes
+- https://www.producthunt.com/posts/pixfood https://pixfood.com/?ref=producthunt
+- https://www.producthunt.com/posts/cinc https://www.cinc.kitchen/?ref=producthunt
+- https://www.producthunt.com/posts/average-cookbook
+- https://www.producthunt.com/posts/daily-yum
+- https://www.producthunt.com/posts/foodgawker
+- https://www.producthunt.com/posts/prepd-pack-recipes-app
+- https://www.producthunt.com/posts/discover-meals
+- https://www.producthunt.com/posts/recidex
+- https://www.producthunt.com/posts/foodies-recipe-by-ingredients
+- https://www.producthunt.com/posts/recipes-only
+- https://www.producthunt.com/posts/recipelove
+- https://www.producthunt.com/posts/fodo
+- https://www.producthunt.com/posts/cookooz
+- https://www.producthunt.com/posts/my-new-roots-cookbook
+- https://www.producthunt.com/posts/good-morning-moms
+- https://www.producthunt.com/posts/grilled-cheese-kitchen
+- https://www.producthunt.com/posts/nyt-cooking-2
+- https://www.producthunt.com/posts/not-recipes
+- https://www.producthunt.com/posts/spatula
+- https://www.producthunt.com/posts/treat-2
+- https://www.producthunt.com/posts/pinto
+- https://www.producthunt.com/posts/noodles-2-2
+- https://www.producthunt.com/posts/famealy
+- https://www.producthunt.com/posts/mealsnap
+- https://www.producthunt.com/posts/subsfinder
+- https://www.producthunt.com/posts/monica
+- https://www.producthunt.com/posts/meal-memory
+- https://www.producthunt.com/posts/fitnspicy-living
+- https://www.producthunt.com/posts/dieterest
+- https://www.producthunt.com/posts/mealime
+- https://www.producthunt.com/posts/yumble
+- https://www.producthunt.com/posts/tasteful-2
 
 #### Move food collection
 
 ---
 
-https://www.producthunt.com/@arthur_tkachenko/collections/healthy-meal-service
-https://www.producthunt.com/@arthur_tkachenko/collections/recipes
-https://www.producthunt.com/@arthur_tkachenko/collections/move-food
+- https://www.producthunt.com/@arthur_tkachenko/collections/healthy-meal-service
+- https://www.producthunt.com/@arthur_tkachenko/collections/recipes
+- https://www.producthunt.com/@arthur_tkachenko/collections/move-food
 
 additional lists:
 - https://www.producthunt.com/e/foooood
