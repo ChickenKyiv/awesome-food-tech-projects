@@ -40,7 +40,7 @@ This is an actual copy of Arthur's collections from ProductHuint
 - https://www.producthunt.com/posts/caramel
 - https://www.producthunt.com/posts/blue-apron
 
-
+- https://www.producthunt.com/posts/nutrita
 
 - https://www.producthunt.com/posts/slice-3
 
