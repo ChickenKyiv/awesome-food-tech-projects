@@ -50,29 +50,50 @@ search, alternatives to ingredients(gf, etc)
 - https://www.producthunt.com/posts/looma Looma (down)
 meal planning, GL, nutritions, recipe recommendations, types
 - https://www.producthunt.com/posts/plant-jammer-2-0 Plan Jammer 2.0
+pantry, AI, recipes, ingredients
 
 - https://www.producthunt.com/posts/hatchery hatchery (down)
 
-- https://www.producthunt.com/posts/ingredient1 ingredient1
+- https://www.producthunt.com/posts/ingredient1 ingredient1 (down)
 - https://www.producthunt.com/posts/hungry-harvest hungry harvest https://www.hungryharvest.net/?ref=producthunt
+food order/delivery, local
 - https://www.producthunt.com/posts/amochef amochef https://amochef.com/?ref=producthunt
-- https://www.producthunt.com/posts/allplants allplants https://allplants.com/?utm_source=producthunt&utm_medium=partnerships&utm_campaign=producthunt_launch&ref=producthunt
+directory of chefs, meal prep service
+
+- https://www.producthunt.com/posts/allplants allplants https://allplants.com/
+food delivery, plant-based, menu, vegan
+
 - https://www.producthunt.com/posts/caviar https://www.trycaviar.com/?ref=producthunt
-- https://www.producthunt.com/posts/holachef
+food delivery from restaurants, app
+- https://www.producthunt.com/posts/holachef (down)
+app, food delivery
 - https://www.producthunt.com/posts/emeals emeals.com
+meal planning service, app, types
 - https://www.producthunt.com/posts/foody http://foody.health/?ref=producthunt
+app, diary history, health, meal tracking,
 - https://www.producthunt.com/posts/akku akku
+app, nutrition, diets
 - https://www.producthunt.com/posts/spelt
+search, nutrition
 - https://www.producthunt.com/posts/meal-sharing meal sharing https://www.mealsharing.com/?ref=producthunt
-- https://www.producthunt.com/posts/recipe-filter-for-chrome
+home cooking, meal discovery, meal list
+
+- https://www.producthunt.com/posts/recipe-filter-for-chrome chrome extension
+
 - https://www.producthunt.com/posts/genius-recipes
+cookbook, book
+
 - https://www.producthunt.com/posts/groceries
+(down)
+
 - https://www.producthunt.com/posts/pikypak
+grocery list, app
 - https://www.producthunt.com/posts/caramel
+grocery list, app 
 - https://www.producthunt.com/posts/blue-apron
-
+meal food order/delivery
 - https://www.producthunt.com/posts/nutrita
-
+nutrition, diets, search form
 - https://www.producthunt.com/posts/slice-3
 
 
