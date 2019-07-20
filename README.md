@@ -3,17 +3,33 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-food-tech-projects) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-food-tech-projects)
 ![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
 
-This is an actual copy of Arthur's collections from ProductHuint
+This is an actual copy of Arthur's collection of projects from ProductHunt
 
 #### Healthy Meal Service collection
 
 - http://www.hikermeals.com/?ref=producthunt HikerMeals
+(Down)
+
 - http://firesideprovisions.com/?ref=producthunt Fireside provisions
+ingredients for outdoor preparation
+food order, shop
+
 - https://www.producthunt.com/posts/it-starts-with-food It Starts With Food (book)
+
+
 - https://www.mariakardakova.com/recipes?ref=producthunt Mary's recipes
-- http://planitdinner.net/?ref=producthunt PlaanItDinner (Down right now)
+
+Meal Planning
+app, recipes, grocery list
+
+- http://planitdinner.net/?ref=producthunt PlanItDinner (Down right now)
+
+
 - https://www.mealime.com/ Mealime
+MealPlan, app, recipes, GL, meal types
+
 - https://www.producthunt.com/posts/meal-pal Meal Pal(down)
+
 - https://www.yummi.me/?ref=producthunt Yummi
 - https://foodcacheapp.com/?ref=producthunt FoodCache
 - https://www.producthunt.com/posts/fridgify Fridgify
