@@ -31,16 +31,28 @@ MealPlan, app, recipes, GL, meal types
 - https://www.producthunt.com/posts/meal-pal Meal Pal(down)
 
 - https://www.yummi.me/?ref=producthunt Yummi
+Food + places to eat, Food Insta + maps
+
 - https://foodcacheapp.com/?ref=producthunt FoodCache
+receipt scanner, budget planner, advanced grocery list, pantry
 - https://www.producthunt.com/posts/fridgify Fridgify
+app, recipes, pantry
+
 - https://loopstore.com/?ref=producthunt Loop
+product, food order/ delivery
 - https://www.producthunt.com/posts/edible-search Edible Search (Down)
+
 - https://www.producthunt.com/posts/kptncook-2 kptncook
+food app, recipe, products/stores sync
 - http://www.subsfinder.com/?ref=producthunt subsfinder
-- https://www.producthunt.com/posts/looma Looma
+search, alternatives to ingredients(gf, etc)
+
+- https://www.producthunt.com/posts/looma Looma (down)
+meal planning, GL, nutritions, recipe recommendations, types
 - https://www.producthunt.com/posts/plant-jammer-2-0 Plan Jammer 2.0
-- Treat http://treatapp.io/?ref=producthunt
+
 - https://www.producthunt.com/posts/hatchery hatchery (down)
+
 - https://www.producthunt.com/posts/ingredient1 ingredient1
 - https://www.producthunt.com/posts/hungry-harvest hungry harvest https://www.hungryharvest.net/?ref=producthunt
 - https://www.producthunt.com/posts/amochef amochef https://amochef.com/?ref=producthunt
