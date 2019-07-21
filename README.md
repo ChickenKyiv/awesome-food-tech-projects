@@ -89,13 +89,13 @@ cookbook, book
 - https://www.producthunt.com/posts/pikypak
 grocery list, app
 - https://www.producthunt.com/posts/caramel
-grocery list, app 
+grocery list, app
 - https://www.producthunt.com/posts/blue-apron
 meal food order/delivery
 - https://www.producthunt.com/posts/nutrita
 nutrition, diets, search form
 - https://www.producthunt.com/posts/slice-3
-
+budget meal planning, ingredients, recipes, grocery lists  
 
 #### "Recipes" collection
 - https://www.producthunt.com/posts/teeny-recipes
