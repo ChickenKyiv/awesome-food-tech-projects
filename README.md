@@ -99,37 +99,75 @@ budget meal planning, ingredients, recipes, grocery lists
 
 #### "Recipes" collection
 - https://www.producthunt.com/posts/teeny-recipes
+facebook recipe videos
+
 - https://www.producthunt.com/posts/pixfood https://pixfood.com/?ref=producthunt
+image to recipe service
+
 - https://www.producthunt.com/posts/cinc https://www.cinc.kitchen/?ref=producthunt
+recipe directory
+
 - https://www.producthunt.com/posts/average-cookbook
+recipe discovery
+
 - https://www.producthunt.com/posts/daily-yum
+recipe, app
+
 - https://www.producthunt.com/posts/foodgawker
+recipe discovery, recipe review, search, filtration
+
 - https://www.producthunt.com/posts/prepd-pack-recipes-app
+recipe app, nutritions, shopping list, eating goals
 - https://www.producthunt.com/posts/discover-meals
+recipe app
 - https://www.producthunt.com/posts/recidex
+recipe index website from different sources
 - https://www.producthunt.com/posts/foodies-recipe-by-ingredients
+recipe app
 - https://www.producthunt.com/posts/recipes-only
+facebook group for recipe discovery
 - https://www.producthunt.com/posts/recipelove
+website for store recipes
 - https://www.producthunt.com/posts/fodo
+recipe app with search from ingredients photos
 - https://www.producthunt.com/posts/cookooz
+meal planning app
 - https://www.producthunt.com/posts/my-new-roots-cookbook
+cookbook with 100+ vegan recipes
 - https://www.producthunt.com/posts/good-morning-moms
+recipe cookbook
 - https://www.producthunt.com/posts/grilled-cheese-kitchen
+cookbook
 - https://www.producthunt.com/posts/nyt-cooking-2
+
 - https://www.producthunt.com/posts/not-recipes
+
 - https://www.producthunt.com/posts/spatula
+
 - https://www.producthunt.com/posts/treat-2
+
 - https://www.producthunt.com/posts/pinto
+
 - https://www.producthunt.com/posts/noodles-2-2
+
 - https://www.producthunt.com/posts/famealy
+
 - https://www.producthunt.com/posts/mealsnap
+
 - https://www.producthunt.com/posts/subsfinder
+
 - https://www.producthunt.com/posts/monica
+
 - https://www.producthunt.com/posts/meal-memory
+
 - https://www.producthunt.com/posts/fitnspicy-living
+
 - https://www.producthunt.com/posts/dieterest
+
 - https://www.producthunt.com/posts/mealime
+
 - https://www.producthunt.com/posts/yumble
+
 - https://www.producthunt.com/posts/tasteful-2
 
 #### Move food collection
