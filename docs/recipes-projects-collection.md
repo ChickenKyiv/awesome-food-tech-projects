@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: recipes-collection
+title: Project with recipes collection
+sidebar_label: Project with recipes
 ---
 
 #### "Recipes" collection

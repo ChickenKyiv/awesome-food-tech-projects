@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: meal-service-collection
+title: Meal Service Collection
+sidebar_label: Meal Service Collection
 ---
 
 #### Healthy Meal Service collection

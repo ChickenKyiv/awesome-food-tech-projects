@@ -1,10 +1,8 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: additional-list
+title: Additional Collections of Food Projects
+sidebar_label: Additional Collection
 ---
-
-
 
 #### More food collections
 
